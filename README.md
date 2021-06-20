@@ -1,4 +1,4 @@
-# NEC GT \ TURBOEXPRESS REPAIR ATTEMPT GUIDE
+# NEC GT \ TURBO EXPRESS REPAIR ATTEMPT GUIDE
 
 The aim of this document a few test hints for hardware debug for Nec GT and Turbo express after a full recap.
 
@@ -9,6 +9,7 @@ The aim of this document a few test hints for hardware debug for Nec GT and Turb
 | CC501       | 4.7uF        | 35V      | SMD Radial |
 | CC502       | 4.7uF        | 50V      | SMD Radial |
 | CC503       | 22uF         | 35V      | SMD Radial |
+| CC504       | 100uF        | 6V       | SMD Radial |
 | CC700       | 100uF        | 6V       | SMD Radial |
 | CC901       | 22uF         | 6V       | SMD Radial |
 
@@ -54,6 +55,10 @@ TBD : Why CC501 and CC502 are under their manufacturing voltage values ?
 ### CC503
 
 ![Screenshot](/pics/CC503.jpg "CC503")
+
+### CC504
+
+![Screenshot](/pics/CC504.jpg "CC504")
 
 ### CC700
 
