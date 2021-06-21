@@ -1,6 +1,7 @@
 # NEC GT \ TURBO EXPRESS REPAIR ATTEMPT GUIDE
 
-The aim of this document a few test hints for hardware debug for Nec GT and Turbo express after a full recap.
+The aim of this document is to keep track of a few test hints for hardware debug for NEC GT and Turbo express after a full recap or for a defect unit.
+
 
 ## Capacitors
 
