@@ -1,5 +1,9 @@
 # Test points after a recap :
 
+## CC500
+
+![Screenshot](/pics/CC500.jpg "CC500")
+
 ## CC501
 
 ![Screenshot](/pics/CC501.jpg "CC501")
