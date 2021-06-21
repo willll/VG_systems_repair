@@ -6,7 +6,7 @@ The aim of this document a few test hints for hardware debug for Nec GT and Turb
 
 [Capacitors](capacitors.md)
 
-\
+
 ## Test points after a recap :
 
 [Test points after a recap](test_points.md)
