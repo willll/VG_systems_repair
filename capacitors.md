@@ -4,6 +4,7 @@
 
 | Reference   | Capacitance  | Voltage  | Type       | 
 |-------------|--------------|----------|------------|
+| CC500       | 100uF        | 16V      | SMD Radial |
 | CC501       | 4.7uF        | 35V      | SMD Radial |
 | CC502       | 4.7uF        | 50V      | SMD Radial |
 | CC503       | 22uF         | 35V      | SMD Radial |
