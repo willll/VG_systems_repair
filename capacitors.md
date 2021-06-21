@@ -8,6 +8,7 @@
 | CC502       | 4.7uF        | 50V      | SMD Radial |
 | CC503       | 22uF         | 35V      | SMD Radial |
 | CC504       | 100uF        | 6V       | SMD Radial |
+| CC505       | 100uF        | 6V       | SMD Radial |
 | CC700       | 100uF        | 6V       | SMD Radial |
 | CC901       | 22uF         | 6V       | SMD Radial |
 
