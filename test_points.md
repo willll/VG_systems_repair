@@ -16,6 +16,10 @@
 
 ![Screenshot](/pics/CC504.jpg "CC504")
 
+## CC505
+
+![Screenshot](/pics/CC505.jpg "CC505")
+
 ## CC700
 
 ![Screenshot](/pics/CC700.jpg "CC700")
